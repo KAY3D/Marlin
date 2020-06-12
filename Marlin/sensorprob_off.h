@@ -45,7 +45,7 @@
 
    #if ENABLED(FIX_MOUNTED_PROBE) //variable
 
-   #if ENABLE (KAY3DCoreXY_KAVA_E3)
+   #if ENABLED(KAY3DCoreXY_KAVA_E3)
       #define NOZZLE_TO_PROBE_OFFSET { -42, -12, 0 }
       #endif 
 
