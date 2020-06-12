@@ -115,7 +115,7 @@ Board name: FYSETCV1_1A, FYSETCV1_1B, FYSETCV1_2A, FYSETCV1_2B, change_value = S
 #define x_driver_type TMC2209  //For Debugging purposes only. Please ignore this line of code
 #define y_driver_type TMC2209  //For Debugging purposes only. Please ignore this line of code
 #define z_driver_type TMC2209  //For Debugging purposes only. Please ignore this line of code
-#define e_driver_type TMC2209 //For Debugging purposes only. Please ignore this line of code
+#define e0_driver_type TMC2209 //For Debugging purposes only. Please ignore this line of code
 #else
 
 /*** *** *** Section 2 - Choose your driver types here. You can also add additional drivers per axis if you like*** *** ***/
